@@ -2,3 +2,4 @@ flujo de trabajo basico
 repositorio remoto
 introduccion a git
 Flujo de trabajo básico
+conflicto
